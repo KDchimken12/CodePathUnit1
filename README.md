@@ -7,7 +7,25 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
     We'll also explore tab bars, another type of navigation, and try our hand with collection views to achieve a grid layout of movie cells. We'll continue to extend our Tumblr app as well adding a detail view. For an extra challenge, add section headers to your table view and leverage a pinch gesture recognizer to allow users to zoom in on an image.
 
 ---
+## Flix Part 2
 
+### User Stories
+
+#### REQUIRED (10pts)
+- [X] (5pts) User can tap a cell to see more details about a particular movie.
+- [X] (5pts) User can tap a tab bar button to view a grid layout of Movie Posters using a CollectionView.
+
+#### BONUS
+- [ ] (2pts) User can tap a poster in the collection view to see a detail screen of that movie.
+- [ ] (2pts) In the detail view, when the user taps the poster, a new screen is presented modally where they can view the trailer.
+
+### App Walkthrough GIF
+`TODO://` Add the URL to your animated app walkthough `gif` in the image tag below, `YOUR_GIF_URL_HERE`. Make sure the gif actually renders and animates when viewing this README. (🚫 Remove this paragraph after after adding gif)
+
+<img src="YOUR_GIF_URL_HERE" width=250><br>
+
+### Notes
+Same as part 1 but slightly easier since I'm getting used to the xcode encironment
 ## Flix Part 1
 
 ### User Stories
